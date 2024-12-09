@@ -1,0 +1,5 @@
+streamlit==1.25.0  # Make sure to use the latest version of Streamlit
+pandas==1.5.3      # For handling data frames
+numpy==1.23.5      # For numerical operations
+matplotlib==3.7.2  # For plotting the histogram and bell curve
+scipy==1.10.1      # For statistical calculations
